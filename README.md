@@ -5,5 +5,5 @@
 
 
 
-This calculator does not claim to calculate final mark, but rather provides an estimate based on the grades and weights provided by the user. Final grades are determined by the course outline and each professor. 
+This calculator does not claim to calculate final mark, but rather provides an estimate based on the grades and weights provided by the user. Final grades are determined by the course outlines and each professor. 
 
