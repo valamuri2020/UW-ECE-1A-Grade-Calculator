@@ -1,6 +1,6 @@
 # Grade Calculator for UW ECE 1A
 
-###Users can input their grades through the console, or can go to the appropriately marked locations in the code to directly feed data for faster results.
+### Users can input their grades through the console, or can go to the appropriately marked locations in the code to directly feed data for faster results.
 
 
 
